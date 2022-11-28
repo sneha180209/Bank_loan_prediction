@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import pickle
 
-model = pickle.load(open('./Model/ML_Model11.pkl', 'rb'))
+model = pickle.load(open('./ML_Model11.pkl', 'rb'))
 
 def run():
     img1 = Image.open('loan3.jpg')
