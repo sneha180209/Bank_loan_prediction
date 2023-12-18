@@ -1,1 +1,1 @@
-# Bank loan prediction
+# Bank Loan Prediction
